@@ -15,17 +15,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ibasrj23.ibasrj23&"  />
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-```csharp
-My Profile
--------------------------------
-name: Ibas R.
-Instagram: @ibas_rj
-FavouriteAnime:ワンピース (One Piece).
-Loves: Anime 🎮, Manga 🎹.
-Hobbies: Watching anime, Read Manga
-```
 <h3 align="left">Spotify Play Now</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xuawslw4lbdukccfs7fmd4f7au&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
