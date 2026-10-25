@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/muhammadbasbarodja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thoriq hanif" height="30" width="40" /></a>
 <a href="https://instagram.com/ibas_rj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thoriqmuhhr_" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31xuawslw4lbdukccfs7fmd4f7au?si=lf0UtiHxR2aM1t0wNGHI-g&utm_source=copy-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="thoriqmuhhr_" height="30" width="40" /></a>
+<a href="https://wa.me/6285167414106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="thoriqmuhhr_" height="30" width="40" /></a>
 
 ## ⚡ Technologies
 <div align="center" style="display:block;">
